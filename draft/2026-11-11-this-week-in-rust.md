@@ -51,6 +51,7 @@ See here for details: https://github.com/rust-lang/this-week-in-rust/issues/8575
 ### Observations/Thoughts
 
 ### Rust Walkthroughs
+* [How to use generated state machines in no_std Rust firmware (STM32 Nucleo and QEMU)](https://www.sinelabore.de/docs/state_machines/designers_toolbox/embedded_system_architectures/rust_no_std/)
 
 ### Research
 
